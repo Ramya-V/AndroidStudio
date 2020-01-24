@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoCo</string>
+    <string name="button">Button</string>
+    <string name="change_of_font_and_color">Change Of Font and Color</string>
+    <string name="fc">Change of Font and Color</string>
+    <string name="change">Change</string>
+</resources>
